@@ -1,8 +1,8 @@
 # Retail Sales & Inventory Analytics Dashboard
 
-![Overview Page](screenshots/page_1.jpg)
-![Sales & Seasonality Page](screenshots/page_2.jpg)
-![Inventory & Risk Page](screenshots/page_3.jpg)
+![Overview Page](screenshots/page_1.JPG)
+![Sales & Seasonality Page](screenshots/page_2.JPG)
+![Inventory & Risk Page](screenshots/page_3.JPG)
 
 > *Dashboard Preview — click through the images above*
 
@@ -109,3 +109,4 @@ Inspired by modern retail analytics and business intelligence best practices.
 ---
 
 **Stack:** Python · MySQL · Power BI
+
