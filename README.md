@@ -1,8 +1,8 @@
 # Retail Sales & Inventory Analytics Dashboard
 
-![Overview Page](screenshots/overview.png)
-![Sales & Seasonality Page](screenshots/sales-seasonality.png)
-![Inventory & Risk Page](screenshots/inventory-risk.png)
+![Overview Page](screenshots/page_1.jpg)
+![Sales & Seasonality Page](screenshots/page_2.jpg)
+![Inventory & Risk Page](screenshots/page_3.jpg)
 
 > *Dashboard Preview — click through the images above*
 
@@ -107,4 +107,5 @@ Built as part of the **Google Data Analytics Certificate** capstone.
 Inspired by modern retail analytics and business intelligence best practices.
 
 ---
+
 **Stack:** Python · MySQL · Power BI
