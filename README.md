@@ -77,6 +77,7 @@ Transform raw retail data into actionable business insights by simulating a real
 - End-to-end analytics pipeline
 
 ## 📁 Repository Structure
+```text
 retail-analytics-dashboard/
 ├── data/
 │   ├── raw/                   # original downloaded file
@@ -93,6 +94,8 @@ retail-analytics-dashboard/
 │   ├── sales-seasonality.png
 │   └── inventory-risk.png
 └── README.md
+```
+
 
 
 ## Dataset
@@ -109,4 +112,5 @@ Inspired by modern retail analytics and business intelligence best practices.
 ---
 
 **Stack:** Python · MySQL · Power BI
+
 
