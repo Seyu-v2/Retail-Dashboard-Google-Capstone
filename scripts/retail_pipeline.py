@@ -6,9 +6,9 @@ import time
 def get_db_connection():
     try:
         conn = mysql.connector.connect(
-            host="localhost",
-            user="root",               
-            password="360Oogaboog@",  
+            host="",
+            user="",               
+            password="",  
             database="retail_db",
             raise_on_warnings=True
         )
@@ -110,4 +110,5 @@ if __name__ == "__main__":
     csv_path = r"C:\ProgramData\MySQL\MySQL Server 8.0\Uploads\retail_store_inventory.csv"   
     
     df_clean = load_clean_csv(csv_path)
+
     insert_data_to_mysql(df_clean)
